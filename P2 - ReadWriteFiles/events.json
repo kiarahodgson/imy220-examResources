@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Picnic",
+        "description": "Picnic in the park",
+        "date": "2024/09/11"
+    },
+    {
+        "title": "Rock @ concert",
+        "description": "Rock concert at the football stadium",
+        "date": "2024/09/21"
+    },
+    {
+        "title": "Golf day!",
+        "description": "Golf day at the local golf course",
+        "date": "2024/09/09"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Picnic",
+        "description": "Picnic in the park",
+        "date": "2024/09/11",
+        "validName": true
+    },
+    {
+        "title": "Rock @ concert",
+        "description": "Rock concert at the football stadium",
+        "date": "2024/09/21",
+        "validName": false
+    }
+]
